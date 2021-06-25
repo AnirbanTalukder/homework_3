@@ -10,5 +10,5 @@ The codes are linked with the index.html which will render the js and generate t
 ![ Password Generator](pwd_gntr.gif)
 
 ## Links to deployed page
-*[Deployed page](https://anirbantalukder.github.io/homework_3/)
-*[Github repo](https://github.com/AnirbanTalukder/homework_3)
+* [Deployed page](https://anirbantalukder.github.io/homework_3/)
+* [Github repo](https://github.com/AnirbanTalukder/homework_3)
